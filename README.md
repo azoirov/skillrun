@@ -1,2 +1,2 @@
 # skillrun
-OPEN DATA CHALLENGE 2020
+skillrun.uz
